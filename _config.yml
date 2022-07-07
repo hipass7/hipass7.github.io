@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
+title: Kwon's Blog
 email: qjsro8763@daum.net
 url: https://github.com/hipass7
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+meta_author: Inhoe Kwon
 
 # Google webmaster tools
 google_verify:
@@ -48,7 +48,7 @@ social:
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/hipass7
 
 # Postal address (add as many lines as necessary)
 address:
