@@ -4,7 +4,7 @@ email: qjsro8763@daum.net
 url: https://github.com/hipass7
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Robot S/W Engineer - Computer Vision - AI"
 meta_author: Inhoe Kwon
 
 # Google webmaster tools
@@ -40,9 +40,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
-    url: http://twitter.com/jekyllrb
+    url: http://www.instagram.com/2._.ne__
   - title: facebook
-    url:
+    url: 
 #   - title: stack-overflow
 #     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: linkedin
