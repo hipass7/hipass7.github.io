@@ -1,5 +1,4 @@
 ---
-title : fucking
 layout: default
 modal-id: 7
 date: 2022-07-10

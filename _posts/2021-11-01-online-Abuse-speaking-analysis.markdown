@@ -1,7 +1,6 @@
 ---
-title : fucking
 layout: default
-modal-id: 7
+modal-id: 4
 date: 2022-07-10
 img: DS.png
 alt: image-alt
