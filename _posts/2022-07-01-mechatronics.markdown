@@ -2,7 +2,7 @@
 layout: default
 modal-id: 11
 date: 2022-07-01
-img: game.png
+img: arduino.png
 alt: image-alt
 project-date: July 2022
 client: Start Bootstrap

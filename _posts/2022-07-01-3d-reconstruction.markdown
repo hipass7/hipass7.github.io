@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 date: 2022-07-10
-img: DS.png
+img: opencv.png
 alt: image-alt
 project-date: July 2022
 client: Start Bootstrap

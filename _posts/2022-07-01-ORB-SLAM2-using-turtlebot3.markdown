@@ -2,7 +2,7 @@
 layout: default
 modal-id: 12
 date: 2022-07-01
-img: DS.png
+img: slam.png
 alt: image-alt
 project-date: July 2022
 client: Start Bootstrap
