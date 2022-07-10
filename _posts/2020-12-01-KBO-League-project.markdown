@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2020-12-01
-img: submarine.png
+img: kbo.png
 alt: image-alt
 project-date: December 2020
 client: Start Bootstrap
