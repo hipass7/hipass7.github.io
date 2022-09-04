@@ -5,7 +5,9 @@ date: 2022-07-01
 img: cg.png
 alt: image-alt
 project-date: July 2022
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Inhoe Kwon
+category: Computer Graphics
+link: https://github.com/hipass7
+plink: https://github.com/hipass7/Computer_Graphics
+description:
 ---
