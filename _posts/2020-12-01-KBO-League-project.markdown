@@ -5,7 +5,9 @@ date: 2020-12-01
 img: kbo.png
 alt: image-alt
 project-date: December 2020
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Inhoe Kwon
+category: Data Analysis
+link: https://github.com/hipass7
+plink: https://github.com/hipass7/hipass7.github.io_v1/blob/master/_posts/2021-08-05-2.md
+description:
 ---
