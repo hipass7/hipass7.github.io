@@ -18,7 +18,7 @@
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
-                            <p><a href="{{ post.plink }}">For more details(link) : {{ post.title }}</a></p>
+                            <p>For more details(link) : <a href="{{ post.plink }}"> {{ post.title }}</a></p>
                             <ul class="list-inline item-details">
                                 {% if post.client %}
                                     <li>Client:
