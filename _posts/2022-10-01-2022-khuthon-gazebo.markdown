@@ -2,7 +2,7 @@
 layout: default
 modal-id: 12
 date: 2022-10-01
-img: khuthon.png
+img: cake.png
 alt: image-alt
 project-date: October 2022
 client: Inhoe Kwon
