@@ -2,7 +2,7 @@
 layout: default
 modal-id: 13
 date: 2022-10-01
-img: cake.png
+img: gazebo.png
 alt: image-alt
 project-date: October 2022
 client: Inhoe Kwon
